@@ -36,7 +36,7 @@ export default function Home() {
       <section className="mx-auto grid max-w-7xl items-center gap-12 px-4 pb-16 pt-10 sm:px-8 sm:pb-24 sm:pt-16 md:grid-cols-12 md:gap-8 lg:gap-12 lg:pt-24">
         <div className="md:col-span-6 lg:col-span-7">
           <p className="font-mono text-[11px] uppercase tracking-[0.3em] text-persimmon">
-            Formosa Fruit Almanac — 夏季號
+            Formosa Fruit Almanac
           </p>
           <h1 style={motion({ "--shift": 40 })} className="hero-drift mt-6 font-serif text-[clamp(2.75rem,8vw,6.5rem)] font-black leading-[1.08] tracking-tight sm:mt-8">
             島嶼的甜，
